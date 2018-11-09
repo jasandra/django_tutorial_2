@@ -1,0 +1,6 @@
+*.pyc
+db.sqlite3
+/tutorial/settings/local
+.idea/django_tutorial_2.iml
+.idea/modules.xml
+.idea/workspace.xml
